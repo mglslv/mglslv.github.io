@@ -3,7 +3,7 @@
 ## Zaebal Cup
 
 <p align="middle">
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614793411137568/dacia.jpg?ex=66eae994&is=66e99814&hm=97e64e0e4cc335e4764db22e677c5360da0f0a15fa49d4918168c1f6b682b14d&" width="32%"/>
+<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&" width="32%"/>
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352489104703499/9.jpg?ex=66e9f54a&is=66e8a3ca&hm=40d0b42c08174a635a6fd292cd37406043750aed296b354a5c61a6488c4899cb&" width="32%"/>
 
@@ -15,7 +15,7 @@ The world's most inept football tournament. Players with no conception of ball c
 ## [Trading paints](https://www.tradingpaints.com/profile/284653/Miguel-da-Silva)
 
 <p align="middle">
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614794325360773/porsche.jpg?ex=66eae994&is=66e99814&hm=b1cc3b5408ee61989da59dcfacddfae0be6078a2da64d23ec60b9c43311b3c4e&" width="32%"/>
+<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614793411137568/dacia.jpg?ex=66eae994&is=66e99814&hm=97e64e0e4cc335e4764db22e677c5360da0f0a15fa49d4918168c1f6b682b14d&" width="32%"/>
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614793134178334/benetton.jpg?ex=66eae994&is=66e99814&hm=c518ca9c1bff66de5cbe7ff61ee67294f36a8ac26deed0346e8d9417d683227b&" width="32%"/>
 
