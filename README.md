@@ -1,6 +1,6 @@
 # Miguel Silva
 
-## Zaebal Cup
+## [Zaebal Cup](https://youtube.com/playlist?list=PLk0qSZlaOjp0I44PruWGExg3IAZMEK5l0&feature=shared)
 
 <p align="middle">
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&" width="48%"/>
@@ -63,6 +63,6 @@ A collection of motorsport liveries made for the iRacing simulator. Among the do
 
 Moved by the 2017 disaster I'm his home region, he started capturing the surviving nature I'm this area, establishing a parallel between past and present, evoking what was with pictures of what is and what remains.
 
-## Broadcast
+## Livestreaming
 8 years casually broadcasting varied gameplay and simracing on twitch, gathering a small but captive audience, and along the way mastering broadcasting tools like OBS, ATVO, streamfx plugins, along with other tools like davinci resolve ...
 
