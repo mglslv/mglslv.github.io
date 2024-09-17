@@ -1,5 +1,9 @@
 # Miguel Silva
 
+## About me
+<img style="float: right;" src="whttps://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&">
+Placeholder text just to see what it looks like.
+
 ## [Zaebal Cup](https://youtube.com/playlist?list=PLk0qSZlaOjp0I44PruWGExg3IAZMEK5l0&feature=shared)
 
 <p align="middle">
@@ -61,8 +65,8 @@ A collection of motorsport liveries made for the iRacing simulator. Among the do
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285646805626912818/IMG_4327.JPG?ex=66eb0764&is=66e9b5e4&hm=501907860cd8256964365aa126ba1388f8453639c87f5f998906ad9fe1d79b73&" width="49%"/>
 </p>
 
-Moved by the 2017 disaster I'm his home region, he started capturing the surviving nature I'm this area, establishing a parallel between past and present, evoking what was with pictures of what is and what remains.
+As an hobbyist photographer, world without humanity, brutal, natural, melancholic, alone.
 
 ## Livestreaming
-8 years casually broadcasting varied gameplay and simracing on twitch, gathering a small but captive audience, and along the way mastering broadcasting tools like OBS, ATVO, streamfx plugins, along with other tools like davinci resolve ...
+8 years casually broadcasting varied gameplay and simracing on twitch, gathering a small but captive audience, and along the way mastering broadcasting tools, audio and visual plugins and much more.
 
