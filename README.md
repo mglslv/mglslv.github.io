@@ -7,7 +7,6 @@
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352489104703499/9.jpg?ex=66e9f54a&is=66e8a3ca&hm=40d0b42c08174a635a6fd292cd37406043750aed296b354a5c61a6488c4899cb&" width="48%"/>
 
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285595975317979178/7.jpg?ex=66ead80d&is=66e9868d&hm=21be4814e5a137dd365e5099243c8e0f7177fd55c44681b9115633f4ef80266e&" width="48%"/>
 </p>
 
 The Zaebal Cup series of tournaments are the mostinept football tournaments in the whole world. Players with no conception of ball control play for ultimate glory on the pitch, in a baffling yetr amusing display of ineptitude. Every single match is broadcasted by a commentator who has no idea about the sport, nor any interest in what is actually happening on the pitch, truly making it a completely pointless exercise.
@@ -26,8 +25,6 @@ The Zaebal Cup series of tournaments are the mostinept football tournaments in t
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614794325360773/porsche.jpg?ex=66eae994&is=66e99814&hm=b1cc3b5408ee61989da59dcfacddfae0be6078a2da64d23ec60b9c43311b3c4e&" width="48%"/>
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614793721380864/ford.jpg?ex=66eae994&is=66e99814&hm=c55d6d00b601dbd67d0567b983004b957740d596a2d7fdfd5b2d4adf8aece769&" width="48%"/>
-
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614792786182238/audi.jpg?ex=66eae994&is=66e99814&hm=2cd5d44f2a9dd5df5a23c97e211c1b84143dd9aec6dd5aa8778ae5c8e006d2fd&" width="48%"/>
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614795273404569/tyrrell.jpg?ex=66eae994&is=66e99814&hm=e88ad04962f9db1bd22609b91ad9940349825e4b312e8c82b599b03b80fa3df5&" width="48%"/>
 
@@ -63,7 +60,6 @@ A collection of motorsport liveries made for the iRacing simulator. Among the do
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285646805626912818/IMG_4327.JPG?ex=66eb0764&is=66e9b5e4&hm=501907860cd8256964365aa126ba1388f8453639c87f5f998906ad9fe1d79b73&" width="48%"/>
 </p>
-
 
 Moved by the 2017 disaster I'm his home region, he started capturing the surviving nature I'm this area, establishing a parallel between past and present, evoking what was with pictures of what is and what remains.
 
