@@ -13,7 +13,6 @@
 The world's most inept football tournament. Players with no conception of ball control (due to altered ai parameters) fighting for glory, broadcasted by a commentator who has no idea about the sport, nor any interest in what is actually happening on the pitch.
 
 ## [Trading paints](https://www.tradingpaints.com/profile/284653/Miguel-da-Silva)
-<hr style="border: none;">
 
 <p align="middle">
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614793134178334/benetton.jpg?ex=66eae994&is=66e99814&hm=c518ca9c1bff66de5cbe7ff61ee67294f36a8ac26deed0346e8d9417d683227b&" alt="drawing" width="32%"/>
