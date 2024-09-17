@@ -34,7 +34,6 @@ The world's most inept football tournament. Players with no conception of ball c
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614792786182238/audi.jpg?ex=66eae994&is=66e99814&hm=2cd5d44f2a9dd5df5a23c97e211c1b84143dd9aec6dd5aa8778ae5c8e006d2fd&" width="32%"/>
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614795273404569/tyrrell.jpg?ex=66eae994&is=66e99814&hm=e88ad04962f9db1bd22609b91ad9940349825e4b312e8c82b599b03b80fa3df5&" width="32%"/>
-</p>
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614794971549738/seat.jpg?ex=66eae994&is=66e99814&hm=4ed77dbbf76b69584400cfb69aa32d0e9cd00b34e0e2fba8092d0d796403ac25&" width="32%"/>
 </p>
