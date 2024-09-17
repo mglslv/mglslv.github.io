@@ -1,7 +1,6 @@
 # Miguel Silva
 
 ## Zaebal Cup
-<hr style="border: none;">
 
 <p align="middle">
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&" alt="drawing" width="32%"/>
