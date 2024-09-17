@@ -1,8 +1,7 @@
 # Miguel Silva
 
 ## About me
-<img style="float: right;" src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&" width="50%">
-Placeholder text just to see what it looks like.
+<img style="float: right;" src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&" width="50%"> Placeholder text just to see what it looks like.
 
 ## [Zaebal Cup](https://youtube.com/playlist?list=PLk0qSZlaOjp0I44PruWGExg3IAZMEK5l0&feature=shared)
 
