@@ -4,11 +4,11 @@
 <hr style="border: none;">
 
 <p align="middle">
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&" alt="drawing" max-width="32%"/>
+<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&" alt="drawing" width="32%"/>
 
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352489104703499/9.jpg?ex=66e9f54a&is=66e8a3ca&hm=40d0b42c08174a635a6fd292cd37406043750aed296b354a5c61a6488c4899cb&" alt="drawing" max-width="32%"/>
+<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352489104703499/9.jpg?ex=66e9f54a&is=66e8a3ca&hm=40d0b42c08174a635a6fd292cd37406043750aed296b354a5c61a6488c4899cb&" alt="drawing" width="32%"/>
 
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285595975317979178/7.jpg?ex=66ead80d&is=66e9868d&hm=21be4814e5a137dd365e5099243c8e0f7177fd55c44681b9115633f4ef80266e&" alt="drawing" max-width="32%"/>
+<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285595975317979178/7.jpg?ex=66ead80d&is=66e9868d&hm=21be4814e5a137dd365e5099243c8e0f7177fd55c44681b9115633f4ef80266e&" alt="drawing" width="32%"/>
 </p>
 
 The world's most inept football tournament. Players with no conception of ball control (due to altered ai parameters) fighting for glory, broadcasted by a commentator who has no idea about the sport, nor any interest in what is actually happening on the pitch.
