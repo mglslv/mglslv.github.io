@@ -31,7 +31,7 @@ The Zaebal Cup series of tournaments are the mostinept football tournaments in t
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614794971549738/seat.jpg?ex=66eae994&is=66e99814&hm=4ed77dbbf76b69584400cfb69aa32d0e9cd00b34e0e2fba8092d0d796403ac25&" width="48%"/>
 </p>
 
-A collection of motorsport liveries made for the iRacing simulator. Among the dozens of works made over the years are adaptations of classic motorsport paint jobs, adapted to different cars, more modern cars, along with some original paints, designed from the ground-up. Works include publically available liveries, as well as jobs ordered by private customers.
+A collection of motorsport liveries made for the iRacing simulator. Among the dozens of works made over the years are adaptations of classic motorsport paint jobs, adapted to different, more modern cars, along with some original paints, designed from the ground-up. Works include publically available liveries, as well as jobs ordered by private customers.
 
 ## Photography 
 
