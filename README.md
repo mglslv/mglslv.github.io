@@ -1,5 +1,3 @@
-# mglslv.github.io
-
 # Miguel Silva
 ========================
 ## Zaebal Cup
