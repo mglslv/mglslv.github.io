@@ -61,6 +61,13 @@ A series of replicas of classic motorsport liveries, adapted to different cars, 
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285632035079192607/IMG_4392.JPG?ex=66eaf9a3&is=66e9a823&hm=0a4402b6f72a9b8783000741058f2142f2a192e56612dcdfee33b4ecd7f17951&" width="32%"/>
 </p>
+<p align="middle">
+<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285631997380788310/IMG_3768.JPG?ex=66eaf99a&is=66e9a81a&hm=77067b9c76eab937a6cb8e9c3a9e910b1b760ec34d78997b991d2784dfbe7678&" width="32%"/>
+
+<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285640421875122176/IMG_4565.JPG?ex=66eb0172&is=66e9aff2&hm=81edab7b6b9d1ede098a450975bedff0cbc77232eb93db7c1226d36a2b562bb7&" width="32%"/>
+
+<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285646805626912818/IMG_4327.JPG?ex=66eb0764&is=66e9b5e4&hm=501907860cd8256964365aa126ba1388f8453639c87f5f998906ad9fe1d79b73&" width="32%"/>
+</p>
 
 
 Moved by the 2017 disaster I'm his home region, he started capturing the surviving nature I'm this area, establishing a parallel between past and present, evoking what was with pictures of what is and what remains.
