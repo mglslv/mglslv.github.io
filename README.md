@@ -18,7 +18,7 @@ The Zaebal Cup series of tournaments are the mostinept football tournaments in t
 
 <img src="/img/tp/jetta.jpg" width="49%"/>
 
-<img src="/img/tp/benetton.jpg" width="100%"/>
+<img src="/img/tp/benetton.jpg" width="99%"/>
 
 </p>
 
@@ -31,7 +31,7 @@ A collection of motorsport liveries made for the iRacing simulator. Among the do
 
 <img src="/img/tp/ford.jpg" width="49%"/>
 
-<img src="/img/tp/porsche.jpg" width="100%"/>
+<img src="/img/tp/porsche.jpg" width="99%"/>
 
 <img src="/img/tp/tyrrell.jpg" width="49%"/>
 
