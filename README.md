@@ -49,7 +49,9 @@ A collection of motorsport liveries made for the iRacing simulator. Among the do
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285631999687659581/IMG_3901.JPG?ex=66eaf99a&is=66e9a81a&hm=54f965b83409d7c3aa4cfa07f6925c6a8d731c2c127f58c2faec5ea0e1f5b62f&" width="49%"/>
 </p>
 
+<p align="middle">
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285631999687659581/IMG_3901.JPG?ex=66eaf99a&is=66e9a81a&hm=54f965b83409d7c3aa4cfa07f6925c6a8d731c2c127f58c2faec5ea0e1f5b62f&" width="98%"/>
+</p>
 
 <p align="middle">
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285632038396760167/IMG_4584.JPG?ex=66eaf9a3&is=66e9a823&hm=5bfa00988aaa050002c73db34b23bcaef0e2af9139845249d13457b6f0a56f6f&" width="49%"/>
