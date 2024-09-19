@@ -24,7 +24,7 @@ The Zaebal Cup series of tournaments are the mostinept football tournaments in t
 
 <img src="/img/tp/ford.jpg" width="49%"/>
 
-<img src="/img/tp/seat.jpg" width="98"/>
+<img src="/img/tp/seat.jpg" width="98%"/>
 
 </p>
 
