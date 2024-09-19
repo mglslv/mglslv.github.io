@@ -7,9 +7,9 @@
 ## [Zaebal Cup](https://youtube.com/playlist?list=PLk0qSZlaOjp0I44PruWGExg3IAZMEK5l0&feature=shared)
 
 <p align="middle">
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352488743997461/5.jpg?ex=66e9f54a&is=66e8a3ca&hm=cdd5eda65f85b3e21e6e176f69fff164691a031a5da2b91c40683a09a850a65b&" width="49%"/>
+<img src="/img/zaebal/zaeb1.png" width="49%"/>
 
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285352489104703499/9.jpg?ex=66e9f54a&is=66e8a3ca&hm=40d0b42c08174a635a6fd292cd37406043750aed296b354a5c61a6488c4899cb&" width="49%"/>
+<img src="/img/zaebal/zaeb2.png" width="49%"/>
 
 </p>
 
