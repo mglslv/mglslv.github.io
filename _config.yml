@@ -1,5 +1,6 @@
 title: Miguel Silva
 logo: /img/profile.png
+description: This is me waiting for me hoping for something else
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
