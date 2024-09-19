@@ -6,23 +6,15 @@
 
 ## [Zaebal Cup](https://youtube.com/playlist?list=PLk0qSZlaOjp0I44PruWGExg3IAZMEK5l0&feature=shared)
 
-<p align="middle">
-<img src="/img/zaebal/zaeb1.png" width="49%"/>
-
-<img src="/img/zaebal/zaeb2.png" width="49%"/>
-
-</p>
-
-![zaebal1](/img/zaebal/zaeb1.jpg)
+![zaebal1](/img/zaebal/zaeb2.jpg)
 
 The Zaebal Cup series of tournaments are the mostinept football tournaments in the whole world. Players with no conception of ball control play for ultimate glory on the pitch, in a baffling yetr amusing display of ineptitude. Every single match is broadcasted by a commentator who has no idea about the sport, nor any interest in what is actually happening on the pitch, truly making it a completely pointless exercise.
 
 ## [Trading paints](https://www.tradingpaints.com/profile/284653/Miguel-da-Silva)
 
 <p align="middle">
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614793411137568/dacia.jpg?ex=66eae994&is=66e99814&hm=97e64e0e4cc335e4764db22e677c5360da0f0a15fa49d4918168c1f6b682b14d&" width="49%"/>
 
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614793134178334/benetton.jpg?ex=66eae994&is=66e99814&hm=c518ca9c1bff66de5cbe7ff61ee67294f36a8ac26deed0346e8d9417d683227b&" width="49%"/>
+<img src="/img/tp/dacia.jpg" width="49%"/>
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614794031894528/jetta.jpg?ex=66eae994&is=66e99814&hm=b70fa393e9d9c17bf2fd32cfc14350e8e606e557bd8f8357b43ed54636546dca&" width="49%"/>
 
