@@ -20,7 +20,7 @@ The Zaebal Cup series of tournaments are the mostinept football tournaments in t
 
 <img src="/img/tp/benetton.jpg" width="98%"/>
 
-<img src="h/img/tp/saab.jpg" width="49%"/>
+<img src="/img/tp/saab.jpg" width="49%"/>
 
 <img src="/img/tp/ford.jpg" width="49%"/>
 
