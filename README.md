@@ -13,6 +13,8 @@
 
 </p>
 
+![zaebal1](/img/zaebal/zaeb1.jpg)
+
 The Zaebal Cup series of tournaments are the mostinept football tournaments in the whole world. Players with no conception of ball control play for ultimate glory on the pitch, in a baffling yetr amusing display of ineptitude. Every single match is broadcasted by a commentator who has no idea about the sport, nor any interest in what is actually happening on the pitch, truly making it a completely pointless exercise.
 
 ## [Trading paints](https://www.tradingpaints.com/profile/284653/Miguel-da-Silva)
