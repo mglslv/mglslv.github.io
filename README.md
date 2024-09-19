@@ -16,9 +16,9 @@ The Zaebal Cup series of tournaments are the mostinept football tournaments in t
 
 <img src="/img/tp/dacia.jpg" width="49%"/>
 
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614794031894528/jetta.jpg?ex=66eae994&is=66e99814&hm=b70fa393e9d9c17bf2fd32cfc14350e8e606e557bd8f8357b43ed54636546dca&" width="49%"/>
+<img src="/img/tp/jetta.jpg" width="49%"/>
 
-<img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614794690269306/saab.jpg?ex=66eae994&is=66e99814&hm=101e733670392ba2cd98035ba7de0c58333ec3bc087a98f25ec5ecb1c82dded1&" width="49%"/>
+<img src="/img/tp/benetton.jpg" width="99%"/>
 
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285614794325360773/porsche.jpg?ex=66eae994&is=66e99814&hm=b1cc3b5408ee61989da59dcfacddfae0be6078a2da64d23ec60b9c43311b3c4e&" width="49%"/>
 
