@@ -1,6 +1,6 @@
 title: Miguel Silva
 logo: /img/profile.png
-description: Welcome! This website serves as a curated showcase for various works I've done as a hobbyist. From photography to design, here you can get a taste of what I love doing, and what I do well.
+description: Welcome! This website serves as a brief, curated showcase for various works I've done as a hobbyist. From photography to design, here you can get a taste of what I love doing, and what I do well.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
