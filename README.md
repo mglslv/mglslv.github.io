@@ -74,7 +74,11 @@ Over the years I've made a series of motorsport liveries for the iRacing simulat
 <img src="https://cdn.discordapp.com/attachments/1285352420771364904/1285646805626912818/IMG_4327.JPG?ex=66eb0764&is=66e9b5e4&hm=501907860cd8256964365aa126ba1388f8453639c87f5f998906ad9fe1d79b73&" width="49%"/>
 </p>
 
-As an hobbyist photographer, world without humanity, brutal, natural, melancholic, alone.
+As an hobbyist photographer, I focus on capturing a world without humanity, but with its reamains, reflecting on the destructive impact of mankind through the lenses.
+
+As a hobbyist photographer, I immerse myself in the haunting beauty of landscapes shaped by human presence yet devoid of humanity. My work seeks to highlight the remnants of our existence—abandoned structures, forgotten places, and nature reclaiming its space. Through my lens, I reflect on the destructive impact of mankind, exploring themes of loss, resilience, and the complex relationship between nature and civilization.
+
+
 
 ## Livestreaming
 8 years casually broadcasting varied gameplay and simracing on twitch, gathering a small but captive audience, and along the way mastering broadcasting tools, audio and visual plugins and much more.
